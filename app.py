@@ -9,7 +9,7 @@ from datetime import datetime
 
 yf.pdr_override()
 start_date = datetime(2014,1,1)
-end_date = datetime(2024,3,1)
+end_date = datetime(2023,3,1)
 
 st.title('Stock Trend Prediction')
 
